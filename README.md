@@ -1,0 +1,2 @@
+# PAL
+Przenośny Aktualizator Lokalizacji
